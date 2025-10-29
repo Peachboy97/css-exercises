@@ -35,10 +35,12 @@ img {
 .container {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .text {
   flex-wrap: wrap;
+
 }
 
 .box {
