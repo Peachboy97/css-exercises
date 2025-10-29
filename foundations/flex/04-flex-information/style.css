@@ -32,9 +32,15 @@ img {
   
 }
 
-
-
 .container {
   display: flex;
   gap: 52px;
+}
+
+.text {
+  flex-wrap: wrap;
+}
+
+.box {
+  flex-basis: 200px;
 }
