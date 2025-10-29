@@ -29,3 +29,8 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.text {
+  display: flex;
+  justify-content: center;
+}
