@@ -34,3 +34,12 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.img {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+}
