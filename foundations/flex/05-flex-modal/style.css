@@ -76,3 +76,13 @@ button.cancel {
   font-weight: bold;
   font-size: large;
 }
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  margin-top: 5px;
+  margin-bottom: 18px;
+}
