@@ -34,7 +34,7 @@ input {
   display: flex;
   justify-content: space-between;
   background-color: lightgrey;
-  ;
+  padding: 5px;
 }
 
 .left-links,
@@ -45,4 +45,5 @@ input {
 
 ul {
   list-style: none;
+  padding-left: 10px;
 }
