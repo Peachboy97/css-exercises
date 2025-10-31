@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  
 }
 
 img {
@@ -29,4 +30,7 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
+  background-color: lightgrey;
+  ;
 }
+
